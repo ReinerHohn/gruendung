@@ -1,0 +1,11 @@
+# Persönliche/sensible Dateien nicht ins Repo
+*.pdf
+*.docx
+*.xlsx
+privat/
+geheim/
+*passwort*
+*password*
+*credential*
+.DS_Store
+Thumbs.db
