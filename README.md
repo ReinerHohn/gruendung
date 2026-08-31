@@ -1,6 +1,8 @@
 # Firmengründung — Wissensbasis
 
-Strukturierte Sammlung aller Schritte, Dokumente und Entscheidungen zur Gründung eines deutschen Unternehmens.
+**Idee:** Regionale Event- & Ausflugsseite für Hotelgäste — Hotels zeigen ihren Gästen per QR-Code / Einbindung was in der Region los ist. B2B-Abo-Modell.
+
+→ Details: [idee.md](idee.md) | IHK-Vorbereitung: [ihk-beratung/vorbereitung.md](ihk-beratung/vorbereitung.md)
 
 ## Schnellnavigation
 
